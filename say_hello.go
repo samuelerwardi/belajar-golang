@@ -1,5 +1,5 @@
 package go_say_hello
 
 func SayHello() string {
-	return "Hello Golang"
+	return "Hello Golang v1.0.3"
 }
